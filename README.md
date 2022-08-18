@@ -13,7 +13,13 @@ We are identifying which employees are eligible to participate in the mentorship
 ##Results
 With the analysis we were able to see:
 1.	how many people are getting retired and how long they have been working in the company.
+
+<img width="716" alt="Screen Shot 2022-08-18 at 1 30 14 PM" src="https://user-images.githubusercontent.com/108313440/185459081-78bf1a67-13e4-4792-b385-03e14fc86b0b.png">
+
 2.	the latest position of each employee eligible for the retirement 
+
+<img width="557" alt="Screen Shot 2022-08-18 at 1 30 53 PM" src="https://user-images.githubusercontent.com/108313440/185459298-948b079b-9432-480e-bc53-1de84c53b0d4.png">
+
 3.	number of retiring people in each title. This results indicated that the major portion of retiring employees are the ones who hold senior positions in the company.
 4.	People who are eligible to act as mentors in the company and transfer their knowledge to the younger generations.
 ## Conclusion
